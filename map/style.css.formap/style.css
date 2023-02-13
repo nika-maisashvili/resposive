@@ -1,0 +1,151 @@
+.map{
+    height: 1379px;
+    width: 375px;
+}
+.top{
+    position: relative;s
+    height: 550px;
+    width: 375px;
+}
+
+.map_img{
+    height: 550px;
+    width: 375px;
+}
+
+.back_to_home{
+    position: absolute;
+    text-align: center;
+    display: flex;
+    flex: 1;
+    height: 72px;
+    width: 264px;
+}
+
+.arrow{
+    height: 72px;
+    width: 56px;
+    background-color: #D5966C;
+}
+
+.map_arrow_img{
+    margin-top: 24px;
+    flex: 1;
+    height: 24px;
+    width: 8px;
+}
+
+.back_to_home_box{
+    text-align: center;
+    height: 72px;
+    width: 208px;
+    background-color: #151515;
+}
+
+.back_to_home_txt{
+    margin-top: 24px;
+    margin-left: 35px;
+    color: white;
+    flex: 1;
+    font-family: Big Shoulders Display;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 24px;
+    letter-spacing: 3.6363637447357178px;
+    text-align: left;
+}
+
+.mid{
+    margin-top: -4px;
+    height: 493px;
+    width: 375px;
+    background-color: #151515;
+}
+
+.mid_main_txt{
+    height: 45px;
+    width: 343px;
+    color: white;
+    margin-left: 16px;
+    margin-top: 0px;
+    padding-top: 36px;
+    font-family: Big Shoulders Display;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.mid_main_location_txt{
+    height: 32px;
+    width: 343px;
+    color:#D5966C ;
+    margin-left: 16px;
+    font-family: Big Shoulders Display;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.mid_second_location_txt{
+    height: 84px;
+    width: 343px;
+    color: #FFFFFF;
+    margin-left: 16px;
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.mid_last_location_txt{
+    height: 140px;
+    width: 343px;
+    color: white;
+    margin-left:16px;
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.bottom{
+    height: 336px;
+    width: 375px;
+    background-color: #D5966C;
+}
+
+.bottom_main_txt{
+    height: 40px;
+    width: 150px;
+    margin-left: 16px;
+    margin-top: 0px;
+    padding-top: 48px;
+    font-family: Big Shoulders Display;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.bottom_second_txt{
+    height: 104px;
+    width: 311px;
+    color: #151515;
+    margin-left: 16px;
+    padding-top:38px;
+    font-family: Outfit;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}

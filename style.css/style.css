@@ -1,0 +1,182 @@
+.home{
+    width:375px;
+    height:2811px;
+    /* background-color: blue; */
+}
+
+.header_img{
+    width: 100%;
+}
+
+.modern_art_section{
+    height: 280px;
+    /* background-color: black; */
+}
+
+.MAG{
+    color:#151515;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 55px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 343px;
+    left: 16px;
+    top: 272px;
+}
+
+.desc{
+    height: 112px;
+    width: 343px;    
+    color:#444444;
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.location{
+    /* display: flex; */
+    height: 72px;
+    width: 204px;
+    background-color: #151515;
+}
+
+.location_text{
+    margin: auto;
+    padding-top: 23px;
+    text-align: center;
+    color: white;
+    font-family: Big Shoulders Display;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 24px;
+    letter-spacing: 3px;       
+}
+
+.arrow{
+    margin-top: -47px;
+    margin-left: 204px;
+    height: 72px;
+    width: 56px;
+    background-color: #D5966C;
+}
+
+.arrow_img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.mid_first_img{
+    text-align: center;
+    margin-top: 120px;
+    height: 320px;
+    width: 343px;
+}
+
+.mid_main_txt{
+    height: 90px;
+    width: 343px;
+    color: #151515;  
+    margin-top: 25px; 
+    font-family: Big Shoulders Display;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.mid_second_txt{
+    height: 112px;
+    width: 343px;
+    color: #444444;
+    margin-top: -40px;
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.mid_second_img{
+    margin-top: 31px;
+    height: 480px;
+    width: 343px;
+}
+
+.mid_third_img{
+    margin-top: 16px;
+    height: 200px;
+    width: 343px;
+}
+
+.inspired{
+    height: 293px;
+    width: 343px;
+    background-color: #151515;
+}
+
+.inspired_main_txt{
+    height: 90px;
+    width: 295px;
+    color: #FFFFFF;
+    margin-top: 16px;
+    font-family: Big Shoulders Display;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding: 24px;
+    /* text-align: center; */
+}
+
+.inspired_second_txt{
+    height: 84px;
+    width: 295px;
+    color: white;
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top:-80px;
+}
+
+.bottom{
+    margin-top:120px;
+    height: 336px;
+    width: 375px;
+    background-color: #151515;
+}
+
+.bottom_main_txt{
+    height: 40px;
+    width: 310px;
+    color: #FFFFFF;
+    font-family: Big Shoulders Display;
+    font-size: 43px;
+    margin-left: 32px;
+    padding-top: 48px;
+}
+
+.bottom_second_txt{
+    height: 104px;
+    width: 311px;
+    font-family: Outfit;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: white;
+    margin-top: 80px;
+    padding-left: 28px;
+}
